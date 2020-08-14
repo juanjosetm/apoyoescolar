@@ -1110,8 +1110,34 @@ section.lazy-placeholder:after {
 .cid-s7ufh4s9oP .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-s7B5Uw85Bf {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/escuela.jpg");
+}
+.cid-s7B5Uw85Bf .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s7B5Uw85Bf .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s7B5Uw85Bf .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s7B5Uw85Bf .mbr-text {
+    text-align: center;
+  }
+}
 .cid-s7um7NZgYl {
-  background-image: url("../../../assets/images/profesora.jpg");
+  background-image: url("../../../assets/images/profesora-1.jpg");
 }
 .cid-s7umOWvmjE {
   padding-top: 90px;
@@ -1393,24 +1419,16 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-s7uwKjDdH0 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-s7vqsbTC6E {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-s7uwKjDdH0 .title {
-  margin-bottom: 2rem;
-}
-.cid-s7uwKjDdH0 .mbr-section-subtitle {
+.cid-s7vqsbTC6E .mbr-section-subtitle {
   color: #767676;
 }
-.cid-s7uwKjDdH0 a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-s7uwKjDdH0 a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-s7uwKjDdH0 textarea.form-control {
-  min-height: 188px;
+.cid-s7vqOvOEU9 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
