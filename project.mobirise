@@ -41,17 +41,26 @@
     "uniqCompNum": 22,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "google-analytics": "Asociación de Padres de Familia de Colegios Particulares Regional Santa Cruz",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Asociación Padres de Familia Santa Cruz",
+        "meta_descr": "Asociación Padres de Familia de Colegios Particulares Santa Cruz",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logo-1.jpg"
       },
       "components": [
         {
