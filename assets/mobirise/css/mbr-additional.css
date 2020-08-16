@@ -1341,6 +1341,11 @@ section.lazy-placeholder:after {
     height: auto !important;
   }
 }
+.cid-s7NdG3zWnq {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-s7GPsjNqLL .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -2036,4 +2041,9 @@ section.lazy-placeholder:after {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-s7NdG3zWnq {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
